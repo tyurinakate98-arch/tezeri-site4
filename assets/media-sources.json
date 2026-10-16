@@ -1,0 +1,242 @@
+{
+  "description": "Consolidated origin records from the full source package. Original image bytes are unchanged.",
+  "assets": {
+    "assets/media/analytics-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.023Z"
+    },
+    "assets/media/analytics-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.067Z"
+    },
+    "assets/media/analytics-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.108Z"
+    },
+    "assets/media/analytics-summary-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-summary-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.155Z"
+    },
+    "assets/media/analytics-summary-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-summary-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.191Z"
+    },
+    "assets/media/analytics-summary-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-summary-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.228Z"
+    },
+    "assets/media/analytics-summary.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics-summary.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.288Z"
+    },
+    "assets/media/analytics.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/analytics.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.401Z"
+    },
+    "assets/media/crm-stages-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/crm-stages-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.467Z"
+    },
+    "assets/media/crm-stages-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/crm-stages-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.494Z"
+    },
+    "assets/media/crm-stages-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/crm-stages-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.523Z"
+    },
+    "assets/media/crm-stages.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/crm-stages.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.557Z"
+    },
+    "assets/media/glazing-drawing-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-drawing-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.607Z"
+    },
+    "assets/media/glazing-drawing-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-drawing-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.647Z"
+    },
+    "assets/media/glazing-drawing-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-drawing-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.685Z"
+    },
+    "assets/media/glazing-drawing.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-drawing.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.731Z"
+    },
+    "assets/media/glazing-editor-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-editor-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.785Z"
+    },
+    "assets/media/glazing-editor-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-editor-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.829Z"
+    },
+    "assets/media/glazing-editor-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-editor-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.868Z"
+    },
+    "assets/media/glazing-editor.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-editor.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:55.938Z"
+    },
+    "assets/media/glazing-estimate-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-estimate-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.001Z"
+    },
+    "assets/media/glazing-estimate-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-estimate-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.038Z"
+    },
+    "assets/media/glazing-estimate-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-estimate-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.074Z"
+    },
+    "assets/media/glazing-estimate.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-estimate.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.137Z"
+    },
+    "assets/media/glazing-installation-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-installation-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.188Z"
+    },
+    "assets/media/glazing-installation-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-installation-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.218Z"
+    },
+    "assets/media/glazing-installation-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-installation-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.249Z"
+    },
+    "assets/media/glazing-installation.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/glazing-installation.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.299Z"
+    },
+    "assets/media/materials-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.353Z"
+    },
+    "assets/media/materials-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.391Z"
+    },
+    "assets/media/materials-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.426Z"
+    },
+    "assets/media/materials-document-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-document-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.470Z"
+    },
+    "assets/media/materials-document-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-document-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.507Z"
+    },
+    "assets/media/materials-document-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-document-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.542Z"
+    },
+    "assets/media/materials-document.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials-document.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.606Z"
+    },
+    "assets/media/materials.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/materials.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.694Z"
+    },
+    "assets/media/order-costs-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-costs-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.747Z"
+    },
+    "assets/media/order-costs.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-costs.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.782Z"
+    },
+    "assets/media/order-history-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-history-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.827Z"
+    },
+    "assets/media/order-history-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-history-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.881Z"
+    },
+    "assets/media/order-history.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-history.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:56.981Z"
+    },
+    "assets/media/order-payments-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-payments-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.028Z"
+    },
+    "assets/media/order-payments-context-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-payments-context-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.063Z"
+    },
+    "assets/media/order-payments-context-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-payments-context-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.113Z"
+    },
+    "assets/media/order-payments-context.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-payments-context.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.169Z"
+    },
+    "assets/media/order-payments.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-payments.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.211Z"
+    },
+    "assets/media/order-projects-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-projects-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.249Z"
+    },
+    "assets/media/order-projects-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-projects-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.303Z"
+    },
+    "assets/media/order-projects.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/order-projects.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.362Z"
+    },
+    "assets/media/passport-glazing-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/passport-glazing-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.409Z"
+    },
+    "assets/media/passport-glazing.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/passport-glazing.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.454Z"
+    },
+    "assets/media/visualizer-one-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-one-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.623Z"
+    },
+    "assets/media/visualizer-one-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-one-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.681Z"
+    },
+    "assets/media/visualizer-one-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-one-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.730Z"
+    },
+    "assets/media/visualizer-one.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-one.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.856Z"
+    },
+    "assets/media/visualizer-two-1200.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-two-1200.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:57.966Z"
+    },
+    "assets/media/visualizer-two-480.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-two-480.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:58.023Z"
+    },
+    "assets/media/visualizer-two-800.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-two-800.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:58.071Z"
+    },
+    "assets/media/visualizer-two.webp": {
+      "prompt": "Pre-existing user-supplied Tezeri program capture; copied from sales-revision-2026-10-15/dist/assets/media/visualizer-two.webp. Existing framing and responsive sizing retained. No generated interface, recoloring, or factual content changes in this edition.",
+      "createdAt": "2026-10-16T07:58:58.200Z"
+    }
+  },
+  "jpeg_note": "JPEG origin metadata remains embedded in the original files."
+}
